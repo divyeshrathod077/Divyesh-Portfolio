@@ -38,7 +38,7 @@ export default function About() {
             </div>
 
             <a
-              href="/Divyesh-Rathod-Resume.pdf"
+              href="/resume.pdf"
               download="Divyesh-Rathod-Resume.pdf"
               className="btn btn-primary"
             >
