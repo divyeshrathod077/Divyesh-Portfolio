@@ -69,8 +69,8 @@ export default function Home() {
               </Link>
 
               <a
-                href="/Divyesh-Rathod-Resume.pdf"
-                download
+                 href="/Divyesh-Rathod-Resume.pdf"
+                 download="Divyesh-Rathod-Resume.pdf"
                 className="btn btn-ghost"
               >
                 <Download size={18} />

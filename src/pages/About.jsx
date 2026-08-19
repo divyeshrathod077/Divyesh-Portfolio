@@ -39,7 +39,7 @@ export default function About() {
 
             <a
               href="/Divyesh-Rathod-Resume.pdf"
-              download
+              download="Divyesh-Rathod-Resume.pdf"
               className="btn btn-primary"
             >
               <Download size={18} />
